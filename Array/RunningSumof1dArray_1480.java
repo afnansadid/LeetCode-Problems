@@ -23,8 +23,6 @@ Constraints:
 -10^6 <= nums[i] <= 10^6
  ***** */
  
-package com.Array.java;
-
 import java.util.Arrays;
 
 public class RunningSumof1dArray_1480 {
