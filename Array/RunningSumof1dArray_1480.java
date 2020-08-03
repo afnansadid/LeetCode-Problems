@@ -29,7 +29,6 @@ import java.util.Arrays;
 
 public class RunningSumof1dArray_1480 {
 	public static void main(String[] args) {
-		
 		Solution slSolution = new Solution();
 		int[] num1= {3,1,2,10,1}; // Input
 		System.out.println(Arrays.toString(slSolution.runningSum(num1)));
