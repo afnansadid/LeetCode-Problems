@@ -34,7 +34,6 @@ public class RunningSumof1dArray_1480 {
 		System.out.println(Arrays.toString(slSolution.runningSum(num1)));
 	}
 }
-
 class Solution {
     public int[] runningSum(int[] nums) {
     	for(int i=1;i<nums.length;i++) {
